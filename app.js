@@ -5,7 +5,7 @@ const port = 3000;
 
 // Route pour retourner des données statiques
 app.get('/api/data', (req, res) => {
-  res.json({ message: "Données statiques de l'API" });
+  res.json({ message: "Données statiques de l'API ghaya" });
 });
 
 // Démarrer l'application
